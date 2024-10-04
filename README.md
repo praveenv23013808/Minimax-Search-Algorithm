@@ -1,6 +1,6 @@
 <h1>ExpNo 5 : Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
-<h3>Name: Hari Prasath. P</h3>
-<h3>Register Number:212223230070 </h3>
+<h3>Name: PRAVEEN.V</h3>
+<h3>Register Number:212222233004 </h3>
 <H3>Aim:</H3>
 <p>
     Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game
@@ -274,4 +274,4 @@ if __name__ == "__main__":
 
 <hr>
 <h2>Result:</h2>
-<p>Thus,Implementation of  Minimax Search Algorithm for a Simple TIC-TAC-TOE game wasa done successfully.</p>
+<p>Thus,Implementation of  Minimax Search Algorithm for a Simple TIC-TAC-TOE game was done successfully.</p>
